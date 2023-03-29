@@ -1,4 +1,4 @@
-# Pattern_Recognition(2022-2)
+# Pattern-Recognition(2022-2)
 
   패턴인식 프로젝트
   
